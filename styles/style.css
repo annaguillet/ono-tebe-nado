@@ -379,8 +379,7 @@ body {
   }
   
   .about__text:first-of-type {
-    margin-bottom: 25px; 
-  }
+    margin-bottom: 25px; }
   
   .about__text:last-of-type {
     letter-spacing: normal;
