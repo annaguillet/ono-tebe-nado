@@ -15,7 +15,7 @@ body {
     font-weight: 400;
     font-size: 18px;
 }
-.header__menu{
+.header__menu {
     display:inline-flex;
     flex-direction: column;
     padding-left:26.52px;
@@ -40,7 +40,7 @@ body {
 }
 
 .header__links-list-item_no-bullit {
-    list-style-type: none; 
+  list-style-type: none; 
 }
 
 .header__link_active {
@@ -79,12 +79,12 @@ body {
     text-decoration: underline;
     text-underline-offset: 4px;
 }
-.header__address_link--phone{
+.header__address_link--phone {
 
     letter-spacing: 0.01em;
 }
 
-.header__address_link--e-mail{
+.header__address_link--e-mail {
     letter-spacing: 0.01em;
 
 }
@@ -219,7 +219,6 @@ body {
     color: #000;
     margin-bottom: 27px;
     padding-left: 40px;
-
 }
 
 .lots__card-list {
@@ -237,7 +236,6 @@ body {
 
 .card-link {
     display: block;
-    height: 100%;
     text-decoration: none;
     padding: 0;
     width: 334px;
@@ -287,7 +285,6 @@ body {
 .card__title {
     position: relative;
     justify-self: start;
-    font-size: 18px;
     font-weight: 700;
     font-size: 22px;
     line-height: 120%;
@@ -304,7 +301,8 @@ body {
     line-height: 120%;
     margin-top: auto; 
 }
-.ellipsis{
+
+.ellipsis {
     letter-spacing: 0.13em;
 }
 
@@ -415,17 +413,18 @@ body {
   text-decoration: underline;
   text-underline-offset: 4px;
 }
-.footer__address_link--phone{
+
+.footer__address_link--phone {
 
   letter-spacing: 0.01em;
 }
 
-.footer__address_link--e-mail{
+.footer__address_link--e-mail {
   letter-spacing: 0.01em;
 
 }
 
-  .footer__menu-list{
+  .footer__menu-list {
     list-style-type: none;
   }
   
