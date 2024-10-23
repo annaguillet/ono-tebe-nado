@@ -353,7 +353,7 @@ body {
 }
 
 .about__text:first-of-type {
-  margin-bottom: 25px;
+  margin-bottom: 24px;
 }
 
 .about__text:last-of-type {
@@ -361,7 +361,7 @@ body {
 }
 
 .footer {
-  padding: 170px 50px 88px 50px;
+  padding: 171px 50px 88px 50px;
   list-style-type: none;
   background-color: #fff;
 }
@@ -377,7 +377,7 @@ body {
   display: block;
   font-size: 18px;
   font-style: normal;
-  line-height: 135%;
+  line-height: 133%;
   text-align: left;
 }
 
@@ -394,6 +394,11 @@ body {
 
 .footer__address_link--e-mail {
   letter-spacing: 0.01em;
+}
+
+.footer__address--address{
+padding-top: 1px;
+padding-left: 1px;
 }
 
 .footer__menu-list {
